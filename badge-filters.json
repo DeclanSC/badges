@@ -39,21 +39,6 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     },
-
-    {
-      "borderColor": "#FF858283",
-      "groupId": "gv",
-      "id": "v-seadex",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-SeaDex.png",
-      "isEnabled": true,
-      "name": "SeaDex",
-      "pattern": "(?i)\\b(?:seadex|best[\\s.-]?release|alt[\\s.-]?(?:best[\\s.-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
-      "tagColor": "#33FFFFFF",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-
     {
       "borderColor": "#FF858283",
       "groupId": "gr",
@@ -96,7 +81,7 @@
 
     {
       "borderColor": "#FF858283",
-      "groupId": "gh",
+      "groupId": "gv",
       "id": "h-hdr10plus",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr10plus.png",
       "isEnabled": true,
@@ -109,7 +94,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gh",
+      "groupId": "gv",
       "id": "h-hdr10",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr10.png",
       "isEnabled": true,
@@ -122,7 +107,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gh",
+      "groupId": "gv",
       "id": "h-hdr",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr.png",
       "isEnabled": true,
@@ -135,7 +120,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gh",
+      "groupId": "gv",
       "id": "h-dv",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/dolbyvision.png",
       "isEnabled": true,
