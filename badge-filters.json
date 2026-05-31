@@ -134,7 +134,7 @@
 
     {
       "borderColor": "#FF858283",
-      "groupId": "gi",
+      "groupId": "gv",
       "id": "i-imaxenh",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/imaxenhanced.png",
       "isEnabled": true,
@@ -147,7 +147,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gi",
+      "groupId": "gv",
       "id": "i-imax",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/imax.png",
       "isEnabled": true,
