@@ -78,11 +78,10 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     },
-
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "h-hdr10plus",
+      "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr10plus.png",
       "isEnabled": true,
       "name": "HDR10+",
@@ -95,7 +94,7 @@
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "h-hdr10",
+      "id": "v-hdr10",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr10.png",
       "isEnabled": true,
       "name": "HDR10",
@@ -108,7 +107,7 @@
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "h-hdr",
+      "id": "v-hdr",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/hdr.png",
       "isEnabled": true,
       "name": "HDR",
@@ -121,7 +120,7 @@
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "h-dv",
+      "id": "v-dv",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/dolbyvision.png",
       "isEnabled": true,
       "name": "Dolby Vision",
@@ -135,7 +134,7 @@
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "i-imaxenh",
+      "id": "v-imax-e",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/imaxenhanced.png",
       "isEnabled": true,
       "name": "IMAX Enhanced",
@@ -148,7 +147,7 @@
     {
       "borderColor": "#FF858283",
       "groupId": "gv",
-      "id": "i-imax",
+      "id": "v-imax",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/imax.png",
       "isEnabled": true,
       "name": "IMAX",
