@@ -7,7 +7,7 @@
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-remux.png",
       "isEnabled": true,
       "name": "Remux",
-      "pattern": "(?i)(?:^|[^a-z0-9])remux(?:$|[^a-z0-9])",
+      "pattern": "(?i)remux",
       "tagColor": "#33FFFFFF",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
