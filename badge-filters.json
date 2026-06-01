@@ -131,14 +131,14 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/vision.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)(?:^|[^a-z0-9])(?:dv|dovi|dolby[\\s._-]?vision)(?:$|[^a-z0-9])",
-      "tagColor": "#00000000",
+      "tagColor": "#33FFFFFF",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
