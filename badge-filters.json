@@ -33,7 +33,7 @@
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-webdl.png",
       "isEnabled": true,
       "name": "WebDL",
-      "pattern": "(?i)(?:^|[^a-z0-9])(?:web[-_. ]?dl|webdl|webrip|web-rip)(?:$|[^a-z0-9])",
+      "pattern": "(?i)(?:^|[^a-z0-9])(?:web[-_. ]?dl|webdl|webrip|web-rip|webd|web)(?:$|[^a-z0-9])",
       "tagColor": "#33FFFFFF",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
