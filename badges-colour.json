@@ -38,7 +38,7 @@
   ],
   "filters": [
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-remux.png",
@@ -77,7 +77,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "gr",
       "id": "r-4k",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/4k.png",
@@ -116,7 +116,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "gv",
       "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/HDR10Plus.png",
@@ -142,7 +142,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#fffebd",
       "groupId": "gv",
       "id": "v-imax-e",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/IMAX-enhanced.png",
@@ -181,7 +181,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "ga",
       "id": "a-at",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_Atmos.png",
@@ -194,7 +194,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "ga",
       "id": "a-th",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_TrueHD.png",
@@ -233,7 +233,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#fffebd",
       "groupId": "ga",
       "id": "a-dtsx",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtsx.png",
@@ -285,7 +285,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#F7941D",
+      "borderColor": "#fffebd",
       "groupId": "gc",
       "id": "ch-71",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_71.png",
