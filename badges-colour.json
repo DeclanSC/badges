@@ -83,7 +83,7 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/4k.png",
       "isEnabled": true,
       "name": "4K",
-      "pattern": "(?i)(?=^.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?)).*(?:^|[-_. \\[\\(]|x)(?:2160[pi]?|4k|uhd)(?:$|[-_. \\]\\)])",
+      "pattern": "(?i)(?=^.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?)).*(?:[-_. \\[\\(]|x)(?:2160[pi]?|4k|uhd)(?:$|[-_. \\]\\)])",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
