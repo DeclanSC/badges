@@ -1,35 +1,35 @@
 {
   "groups": [
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FFFFFF",
       "color": "#27C04F",
       "id": "gq",
       "isExpanded": true,
       "name": "Quality"
     },
     {
-      "borderColor": "#FF858283",
-      "color": "#FFBE01",
-      "id": "gr",
-      "isExpanded": true,
-      "name": "Resolution"
-    },
-    {
-      "borderColor": "#FF858283",
+      "borderColor": "#FFFFFF",
       "color": "#FF6B6B",
       "id": "gv",
       "isExpanded": true,
       "name": "Visual"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
+      "color": "#FFBE01",
+      "id": "gr",
+      "isExpanded": true,
+      "name": "Resolution"
+    },
+    {
+      "borderColor": "#FFFFFF",
       "color": "#45B7D1",
       "id": "ga",
       "isExpanded": true,
       "name": "Audio"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "color": "#FFD700",
       "id": "gc",
       "isExpanded": true,
@@ -38,7 +38,7 @@
   ],
   "filters": [
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-remux.png",
@@ -51,7 +51,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-b",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-bluray.png",
@@ -64,12 +64,12 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-webdl.png",
       "isEnabled": true,
-      "name": "WebDL",
+      "name": "WEB-DL",
       "pattern": "(?i)(?:^|[^a-z0-9])(?:web[-_. ]?dl|webdl|webrip|web-rip|webd|web)(?:$|[^a-z0-9])",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
@@ -77,7 +77,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-4k",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/4k.png",
@@ -90,7 +90,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-1080",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/1080p.png",
@@ -103,7 +103,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-720",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/720p.png",
@@ -116,7 +116,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/HDR10Plus.png",
@@ -129,20 +129,20 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr10",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/HDR10.png",
       "isEnabled": true,
       "name": "HDR10",
-      "pattern": "(?i)^(?=.*hdr)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))",
+      "pattern": "(?i)^(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))(?=.*(?:hdr|(?:^|[^a-z0-9])(?:dv|dovi|dolby[\\s._-]?vision)(?:$|[^a-z0-9])))",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-imax-e",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/IMAX-enhanced.png",
@@ -155,7 +155,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-imax",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/IMAX.png",
@@ -168,20 +168,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
-      "groupId": "gv",
-      "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_DV.png",
-      "isEnabled": true,
-      "name": "DV",
-      "pattern": "(?i)(?:^|[^a-z0-9])(?:dv|dovi|dolby[\\s._-]?vision)(?:$|[^a-z0-9])",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-at",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_Atmos.png",
@@ -194,7 +181,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-th",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_TrueHD.png",
@@ -207,7 +194,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dp",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_DDPLUS.png",
@@ -220,7 +207,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dd",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_DD.png",
@@ -233,7 +220,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtsx",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtsx.png",
@@ -246,7 +233,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtsma",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtshdma.png",
@@ -259,7 +246,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtshd",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtshd.png",
@@ -272,7 +259,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dts",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dts.png",
@@ -285,7 +272,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gc",
       "id": "ch-71",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_71.png",
@@ -298,7 +285,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#ffffff",
+      "borderColor": "#FFFFFF",
       "groupId": "gc",
       "id": "ch-51",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_51.png",
